@@ -1,4 +1,6 @@
-[![MasterHead](https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif)]()
+<p align="center">
+  <img src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif" alt="MasterHead" width="650"/>
+</p>
 <h1 align="center">Hi 👋, I'm Paidi Akileswar</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
